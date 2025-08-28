@@ -1,1 +1,2 @@
-# SecondRepo
+# The Ultimate Number Guessing Game (UNGG)
+You can indentify the desirable amount of guesses. Your score will be calculated over 100, you will lose points by every wrong guess. The range will be updated all the time, which makes your experience easier (girl it's just a stupid game don't make it dramatic lol). The game is in a loop, no need to start the code in each play (woah genius). Nvm first repo in github, enjoy. <3
